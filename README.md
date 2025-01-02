@@ -4,7 +4,7 @@
 *A professional in **International Wholesale & Carrier Relations** exploring the exciting world of data analysis!*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RafiqAlfaqeh&color=blueviolet)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rafiqalfaqeh)  
 [![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:rafiq.alfaqeh3@gmai.com)  
 [![GitHub](https://img.shields.io/badge/Follow-GitHub-black)](https://github.com/RafiqAlfaqeh?tab=followers)  
 
