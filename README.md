@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-### **I'm Rafiq**  
+### **I'm [Rafiq]**  
 *A professional in **International Wholesale & Carrier Relations** exploring the exciting world of data analysis!*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RafiqAlfaqeh&color=blueviolet)  
